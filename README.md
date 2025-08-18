@@ -1,1 +1,1 @@
-First lab activity in Software Engineering 1
+First lab activity in Software Engineering 1.
